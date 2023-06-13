@@ -24,7 +24,7 @@ Looking ahead, Szymon envisions a future where he can leverage his extensive exp
 
 
 
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szymon-kowieski-81b52513/ )[<img align="left" alt="stack-overflow" 
+<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szymon-kowieski-81b52513/ )
 <!--
 **SzymonKowieski/SzymonKowieski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
