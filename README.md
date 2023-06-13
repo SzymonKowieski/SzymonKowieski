@@ -19,7 +19,7 @@ To pursue his aspiration of becoming a front-end developer, Szymon has actively 
 ### Skills and Qualifications: :nerd_face:
 With his background as a Senior Specialist, Szymon possesses a unique skill set that complements his journey towards becoming a front-end developer. His strong analytical thinking, attention to detail, and ability to manage complex projects will prove invaluable in his new role. Additionally, his experience collaborating with diverse teams will enable Szymon to effectively communicate and coordinate with designers, backend developers, and other stakeholders.
 
-### Future Goals: :boom: :robot:
+### Future Goals: :boom::robot:
 Looking ahead, Szymon envisions a future where he can leverage his extensive experience as a Senior Specialist alongside his newfound front-end development skills. His goal is to contribute to the creation of seamless user experiences, develop visually stunning interfaces, and collaborate with talented professionals to bring innovative web projects to life. Szymon is excited about the possibilities that lie ahead and is ready to embrace the challenges that come with transitioning into his new role.
 
 
