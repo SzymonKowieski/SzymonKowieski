@@ -22,7 +22,9 @@ Future Goals:<br>
 Looking ahead, Szymon envisions a future where he can leverage his extensive experience as a Senior Specialist alongside his newfound front-end development skills. His goal is to contribute to the creation of seamless user experiences, develop visually stunning interfaces, and collaborate with talented professionals to bring innovative web projects to life. Szymon is excited about the possibilities that lie ahead and is ready to embrace the challenges that come with transitioning into his new role.
 
 
-<br>### Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szymon-kowieski-81b52513/ )<br>
+<br>### Connect with me
+<br>
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szymon-kowieski-81b52513/ )<br>
 <!--
 **SzymonKowieski/SzymonKowieski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
