@@ -1,6 +1,7 @@
 ### Hello World 👋
 
-####Introduction:<br>
+####Introduction:
+
 Meet Szymon Kowieski, a seasoned professional currently working as a Senior Specialist in welding industry. Despite his extensive experience and accomplishments in his current role, Szymon has set his sights on a new career path: becoming a front-end developer. With a strong foundation and a burning passion for web development, Szymon is embarking on an exciting journey of continuous learning and skill acquisition.
 
 Background:<br>
