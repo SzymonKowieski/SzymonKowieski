@@ -2,7 +2,7 @@
 
 ### Introduction:  :man_astronaut:
 
-Meet **Szymon Kowieski**, a seasoned professional currently working as a **Senior Specialist in R&D** department at welding industry. Despite his extensive experience and accomplishments in his current role, Szymon has set his sights on a new career path: becoming a front-end developer. With a strong foundation and a burning passion for web development, Szymon is embarking on an exciting journey of continuous learning and skill acquisition.
+Meet **Szymon Kowieski**, a seasoned professional currently working as a **Senior Specialist in R&D** department at welding industry. Despite his extensive experience and accomplishments in his current role (15 years in one company!), Szymon has set his sights on a new career path: becoming a front-end developer. With a strong foundation and a burning passion for web development, Szymon is embarking on an exciting journey of continuous learning and skill acquisition.
 
 ### Background: :sunglasses:
 As a Senior Specialist, Szymon has demonstrated exceptional expertise and proficiency in his field. His years of experience have honed his analytical and problem-solving skills, allowing them to tackle complex challenges with finesse. Throughout his career, Szymon has garnered recognition for his ability to lead and collaborate with cross-functional teams, driving successful project outcomes and delivering high-quality results.
